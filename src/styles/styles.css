@@ -41,11 +41,13 @@ img {
     width: 100%;
     height: 400px;
     margin: 0px auto;
+    padding: 10px 0px;
 }
 div.feedback{
     margin: auto;
     margin-left: 8px;
     font-size: 35px;
+    padding: 0px 0px 0px 4px
 }
 div.feedback i.fa-heart {
     margin-right: 10px;
@@ -59,4 +61,5 @@ div.feedback i.fa-bookmark {
 div.likes{
     margin-left: 8px;
     margin-right: 8px;
+    padding: 0px 0px 0px 8px
 }
